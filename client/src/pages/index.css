@@ -1,0 +1,88 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+  }
+  
+  .App-header {
+    background-color: #3985b1;
+    padding: 20px;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: white;
+  }
+  
+  .App-content {
+    position: relative;
+    margin-top: 40px;
+  }
+  
+  .App-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    opacity: 0.5;
+  }
+  
+  .App-description {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+  }
+  
+  .App-description h2 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .App-description p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  .App-description h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .App-description ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  .App-description li {
+    margin-bottom: 10px;
+  }
+  
+  .App-button {
+    background-color: #ffa500;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .App-button:hover {
+    background-color: #ff8c00
+  }  

@@ -1,0 +1,14 @@
+.courses {
+    justify-content: center;
+    width: 50%;
+    border-collapse: collapse;
+    font-size: 14px;
+    padding: 5px;
+    margin: 40px auto; 
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #8e117d;
+    padding-left: 30%;
+    margin-left: 200px;
+}

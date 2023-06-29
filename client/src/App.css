@@ -1,0 +1,85 @@
+
+.information {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+input {
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin: 5px;
+
+}
+
+ button {
+  width: 320px;
+  height: 50px;
+  margin-top: 15px;
+} 
+
+ button:hover {
+  cursor: pointer;
+}
+
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+    /* background-color: #c1d82f; */
+    /* background-image: linear-gradient(to bottom right, #e79c50, #df8434, #df6c1f);
+    background-image: linear-gradient(to right, #af7228, #e1b05c, #c66c2b, #ea9e1c, #c27808); */
+}
+
+
+
+
+.App-link {
+  color: #34acb5;
+}
+
+
+  
+  .label{
+  display: block;
+  font-size: larger;
+  color: rgb(220, 46, 46);
+  padding: 5px;
+  margin-right: 800px
+  }
+  
+  .messages{
+  display: flex;
+  justify-content: center;
+  margin-right: 800px;
+  }
+  
+  .error{
+  display: block;
+  background-color: red;
+  color: rgb(218, 117, 17);
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  margin-right: 800px;
+  }
+  
+  .success{
+  display: block;
+  background-color: rgb(49, 156, 192);
+  color: black;
+  width: fit-content;
+  height: 50px;
+  margin-right: 800px;
+  padding: 5px;
+  }
+
+  

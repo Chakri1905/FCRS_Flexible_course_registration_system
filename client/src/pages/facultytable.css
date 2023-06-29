@@ -1,0 +1,28 @@
+.faculty-table ,.body {
+    font-family: Arial, sans-serif;
+    margin: 10px auto;
+    padding: 60px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 800px;
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 80%;
+  }
+  
+  
+  faculty-table th,
+  faculty-tabletd {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #8e117d;
+    padding: 5px;
+  margin-right: 800px
+  }
+  
+  faculty-table{
+    background-color: #1c7e92;
+    color: #10c425;
+    padding: 5px;
+  margin-right: 800px
+  }
